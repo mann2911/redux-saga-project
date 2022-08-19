@@ -10,7 +10,9 @@ export default function Users() {
     useEffect(()=>{
         dispatch(getUser());
     },[])
-  return <div>
+    
+  return (
+  <div>
     <Link to="/">Go to home page</Link>
     <h1>List of users</h1>
     <table style={{border:"1px solid black",padding:"20px",margin:"auto"}}>
@@ -36,5 +38,6 @@ export default function Users() {
         </tbody>
     </table>
 
-  </div>;
+  </div>
+  );
 }
