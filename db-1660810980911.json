@@ -1,0 +1,20 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung A71",
+      "color": "black",
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://media.istockphoto.com/id/694075244/photo/holding-samsung-galaxy-s8.webp?s=612x612&w=is&k=20&c=RZRa-FzRi2anMzhVClUAt37wbdGvG3JVDJt4FM6QiRY="
+    },
+    {
+      "id": 2,
+      "name": "Samsung A50",
+      "color": "red",
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://media.istockphoto.com/id/694075244/photo/holding-samsung-galaxy-s8.webp?s=612x612&w=is&k=20&c=RZRa-FzRi2anMzhVClUAt37wbdGvG3JVDJt4FM6QiRY="
+    }
+  ]
+}
